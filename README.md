@@ -1,4 +1,4 @@
-### Oi sou o Marcos Ani Cury
+### Oi sou o Marcos Ani Cury, estudante de Ciências da Computação, aqui está meu repositório
 
 <div>
   <a href="https://github.com/MarcosAniCury">
@@ -19,7 +19,13 @@
   <img align="center" alt="Marcos-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 </div>
   
-#  
+##
+
+<div> 
+  <a href="https://www.instagram.com/marquinhos_cury/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/5WAeZRaVaK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/marcos-ani-cury-vinagre-silva-3566a1193" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div> <br>
   
 - 🔭 Estou atualmente fazendo um estágio e atuando como freelancer.
 - 🌱 Atualmente estou me aventurando pelo PHP, JS e Python.

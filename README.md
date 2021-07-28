@@ -31,4 +31,4 @@
 - 🌱 Atualmente estou me aventurando pelo PHP, JS e Python.
 - ⚡ No meu tempo livre eu trabalho no meu bot para o discord de rpg de mesa.
 
-![Snake animation](https://github.com/MarcosAniCury/)
+![Snake animation](https://github.com/MarcosAniCury/MarcosAniCury/blob/output/github-contribution-grid-snake.svg)

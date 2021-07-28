@@ -30,3 +30,5 @@
 - 🔭 Estou atualmente fazendo um estágio e atuando como freelancer.
 - 🌱 Atualmente estou me aventurando pelo PHP, JS e Python.
 - ⚡ No meu tempo livre eu trabalho no meu bot para o discord de rpg de mesa.
+
+![Snake animation](https://github.com/MarcosAniCury/)

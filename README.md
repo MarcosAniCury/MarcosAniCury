@@ -17,6 +17,7 @@
   <img align="center" alt="Marcos-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Marcos-post" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Marcos-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Marcos-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 </div>
   
 ##
@@ -30,5 +31,5 @@
 - 🔭 Estou atualmente fazendo um estágio e atuando como freelancer.
 - 🌱 Atualmente estou me aventurando pelo PHP, JS e Python.
 - ⚡ No meu tempo livre eu trabalho no meu bot para o discord de rpg de mesa.
-- <img align="center" alt="Marcos-mongo" height="20" width="20" src="https://img.icons8.com/color/48/000000/discord-logo.png"> Miko#9331 só me chamar lá
+- <img align="center" alt="Marcos-discord" height="20" width="20" src="https://img.icons8.com/color/48/000000/discord-logo.png"> Miko#9331 só me chamar lá
 ![Snake animation](https://github.com/MarcosAniCury/MarcosAniCury/blob/output/github-contribution-grid-snake.svg)

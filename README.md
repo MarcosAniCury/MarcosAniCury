@@ -1,12 +1,12 @@
-### Oi sou o Marcos Ani Cury, estudante de Ciências da Computação, aqui está meu repositório
+<h3 align="center"> Oi sou o Marcos Ani Cury, estudante de Ciências da Computação, aqui está meu repositório </h3> <br>
 
-<div>
+<div align="center">
   <a href="https://github.com/MarcosAniCury">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosAniCury&show_icons=true&theme=gotham&include_all_commits=true&count_private=true">
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosAniCury&show_icons=true&theme=gotham&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAniCury&layout=compact&langs_count=7&theme=gotham"> </a>
 </div>
   
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Marcos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -20,16 +20,19 @@
   <img align="center" alt="Marcos-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 </div>
   
-##
+<hr>
 
-<div> 
+<div align="center"> 
   <a href="https://www.instagram.com/marquinhos_cury/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/5WAeZRaVaK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="www.linkedin.com/in/marcos-ani-cury-vinagre-silva-3566a1193" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div> <br>
+</div>
+  
+<hr>
   
 - 🔭 Estou atualmente fazendo um estágio e atuando como freelancer.
 - 🌱 Atualmente estou me aventurando pelo PHP, JS e Python.
 - ⚡ No meu tempo livre eu trabalho no meu bot para o discord de rpg de mesa.
 - <img align="center" alt="Marcos-discord" height="20" width="20" src="https://img.icons8.com/color/48/000000/discord-logo.png"> Miko#9331 só me chamar lá
+
 ![Snake animation](https://github.com/MarcosAniCury/MarcosAniCury/blob/output/github-contribution-grid-snake.svg)

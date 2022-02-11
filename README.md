@@ -31,7 +31,6 @@
   <a href="https://www.instagram.com/marquinhos_cury/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/5WAeZRaVaK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="www.linkedin.com/in/marcos-ani-cury-vinagre-silva-3566a1193" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/MarcosAniCury/MarcosAniCury/blob/main/Curr%C3%ADculo%20Marcos.pdf" target="_blank"><img src="https://img.shields.io/badge/-Currículo-grey?logo=BookStack&logoColor=white&style=for-the-badge" target="_blank"></a> 
 </div>
   
 <hr>

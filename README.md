@@ -35,9 +35,9 @@
   
 <hr>
   
-- 🔭 Estou atualmente fazendo um estágio e atuando como freelancer.
-- 🌱 Atualmente estou me aventurando pelo PHP, JS e Python.
-- ⚡ No meu tempo livre eu trabalho no meu bot para o discord de rpg de mesa.
+- 🔭 Estou atualmente fazendo um estágio.
+- 🌱 Atualmente estou me aventurando pelo Python e C# (Unity).
+- ⚡ No meu tempo livre eu trabalho no meu jogo na unity.
 - <img align="center" alt="Marcos-discord" height="20" width="20" src="https://img.icons8.com/color/48/000000/discord-logo.png"> Miko#9331 só me chamar lá
 
 ![Snake animation](https://github.com/MarcosAniCury/MarcosAniCury/blob/output/github-contribution-grid-snake.svg)

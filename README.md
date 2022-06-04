@@ -16,6 +16,8 @@
   <img align="center" alt="Marcos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marcos-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Marcos-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Marcos-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Marcos-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img align="center" alt="Marcos-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Marcos-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="Marcos-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
@@ -35,8 +37,8 @@
   
 <hr>
   
-- 🔭 Estou atualmente fazendo um estágio.
-- 🌱 Atualmente estou me aventurando pelo Python e C# (Unity).
+- 🔭 Estou atualmente fazendo um estágio usando vue.js (front), laravel (back) e react native (app).
+- 🌱 Atualmente estou me aventurando pelo next.js e c#.
 - ⚡ No meu tempo livre eu trabalho no meu jogo na unity.
 - <img align="center" alt="Marcos-discord" height="20" width="20" src="https://img.icons8.com/color/48/000000/discord-logo.png"> Miko#9331 só me chamar lá
 

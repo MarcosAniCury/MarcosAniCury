@@ -38,9 +38,9 @@
   
 <hr>
   
-- 🔭 Estou atualmente fazendo um estágio usando vue.js (front), laravel (back) e react native (app).
-- 🌱 Atualmente estou me aventurando pelo next.js e c#.
-- ⚡ No meu tempo livre eu trabalho no meu jogo na unity.
+- 🔭 Estou atualmente fazendo um estágio utilizando as linguagens react-native e python com django (desenvolvimento focado em IOS).
+- 🌱 Atualmente estou me aventurando pelo python.
+- ⚡ No meu tempo livre eu trabalho no meu bot do discord para rpg de mesa em python.
 - <img align="center" alt="Marcos-discord" height="20" width="20" src="https://img.icons8.com/color/48/000000/discord-logo.png"> Miko#9331 só me chamar lá
 
 ![Snake animation](https://github.com/MarcosAniCury/MarcosAniCury/blob/output/github-contribution-grid-snake.svg)

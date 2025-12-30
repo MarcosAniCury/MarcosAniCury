@@ -1,4 +1,4 @@
-<h3 align="center"> Oi sou o Marcos Ani Cury, estudante de Ciências da Computação, aqui está meu repositório </h3> <br>
+<h3 align="center"> Hi, I’m Marcos 👋 </h3> <br>
 
 <div align="center">
   <a href="https://github.com/MarcosAniCury">
@@ -37,10 +37,9 @@
 </div>
   
 <hr>
-  
-- 🔭 Estou atualmente fazendo um estágio utilizando as linguagens react-native e python com django (desenvolvimento focado em IOS).
-- 🌱 Atualmente estou me aventurando pelo python.
-- ⚡ No meu tempo livre eu trabalho no meu bot do discord para rpg de mesa em python.
-- <img align="center" alt="Marcos-discord" height="20" width="20" src="https://img.icons8.com/color/48/000000/discord-logo.png"> Miko#9331 só me chamar lá
+
+I’m a software engineer who enjoys building AI-powered systems, agentic platforms, and cloud infrastructure. Lately, I’ve been diving deep into the AI world, constantly experimenting with new models, tools, ideas, testing, breaking, benchmarking, and figuring out what actually works in practice.
+
+I’m curious by default and I like learning by building, whether that’s production systems, side projects, or random experiments that start as “what if?”. If it scales and performs well, even better.
 
 ![Snake animation](https://github.com/MarcosAniCury/MarcosAniCury/blob/output/github-contribution-grid-snake.svg)

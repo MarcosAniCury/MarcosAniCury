@@ -1,8 +1,16 @@
-<h1 align="center">Marcos Ani Cury</h1>
+<p align="center">
+  <img alt="Marcos Ani Cury profile banner" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,45:7c3aed,100:06b6d4&amp;height=180&amp;section=header&amp;text=Marcos%20Ani%20Cury&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=AI%20systems%20%7C%20full-stack%20products%20%7C%20automation%20labs&amp;descAlignY=58">
+</p>
+
+<h1 align="center">Hey, I am Marcos</h1>
 
 <p align="center">
   <b>Tech Lead / Senior Software Engineer</b><br>
   Building AI systems, full-stack products, automations, and the occasional over-engineered personal workflow.
+</p>
+
+<p align="center">
+  <img alt="Typing intro" src="https://readme-typing-svg.demolab.com?font=Fira%20Code&amp;pause=1100&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Production%20AI%20systems%20and%20agentic%20workflows;Full-stack%20products%20from%20idea%20to%20production;Home%20automation%2C%20local%20servers%2C%20and%20builder%20experiments">
 </p>
 
 <p align="center">
@@ -136,7 +144,7 @@ Outside work, I still like building software for myself: personal MVPs, home aut
 
 ---
 
-## My Current Rabbit Holes
+## Current Experiments
 
 - Making AI features feel less like demos and more like dependable product surfaces.
 - Designing agent/tool flows that are explicit, observable, recoverable, and understandable by humans.
@@ -152,12 +160,29 @@ Outside work, I still like building software for myself: personal MVPs, home aut
 
 ---
 
-## GitHub Snapshot
+## Public Profile, Private Production Work
 
 <p align="center">
-  <img height="165" alt="Marcos Ani Cury GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MarcosAniCury&show_icons=true&theme=tokyonight&hide_border=true">
-  <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAniCury&layout=compact&langs_count=8&theme=tokyonight&hide_border=true">
+  <img alt="Private production repos" src="https://img.shields.io/badge/Most%20production%20work-private%20company%20repos-7C3AED?style=for-the-badge">
+  <img alt="Public profile is curated" src="https://img.shields.io/badge/Public%20GitHub-curated%20experiments-06B6D4?style=for-the-badge">
+  <img alt="Not a public stats scoreboard" src="https://img.shields.io/badge/Not%20a%20scoreboard-context%20over%20counts-111827?style=for-the-badge">
 </p>
+
+Most of my meaningful engineering work lives in private/company repositories, so public stats cards do not represent the real picture. They undercount private contributions and can overrepresent whichever language happens to be visible in public repos.
+
+This profile is meant to be a map of how I build: AI systems, product engineering, platform work, and personal automation labs.
+
+```mermaid
+flowchart LR
+    A["Messy real-world problems"] --> B["Product engineering"]
+    B --> C["AI systems"]
+    B --> D["Cloud and reliability"]
+    C --> E["Agents, RAG, tools, memory"]
+    D --> F["CI/CD, observability, cost control"]
+    E --> G["Useful production workflows"]
+    F --> G
+    G --> H["Personal labs and automations"]
+```
 
 ---
 

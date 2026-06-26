@@ -160,33 +160,6 @@ Outside work, I still like building software for myself: personal MVPs, home aut
 
 ---
 
-## Build Loop
-
-<p align="center">
-  <img alt="Idea" src="https://img.shields.io/badge/idea-0F172A?style=for-the-badge">
-  <img alt="Prototype" src="https://img.shields.io/badge/prototype-7C3AED?style=for-the-badge">
-  <img alt="Break things" src="https://img.shields.io/badge/break%20things-DC2626?style=for-the-badge">
-  <img alt="Learn" src="https://img.shields.io/badge/learn-2563EB?style=for-the-badge">
-  <img alt="Ship" src="https://img.shields.io/badge/ship-059669?style=for-the-badge">
-  <img alt="Automate" src="https://img.shields.io/badge/automate-F59E0B?style=for-the-badge">
-</p>
-
-```mermaid
-flowchart LR
-    A["idea"] --> B["prototype"]
-    B --> C["break things"]
-    C --> D["learn"]
-    D --> E["ship"]
-    E --> F["automate"]
-    F --> A
-```
-
-<p align="center">
-  <img alt="Contribution grid snake animation" src="https://raw.githubusercontent.com/MarcosAniCury/MarcosAniCury/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
 <p align="center">
   I like software that ships, systems that survive production, and side projects that start with "this should probably be automated".
 </p>

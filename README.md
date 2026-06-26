@@ -160,29 +160,30 @@ Outside work, I still like building software for myself: personal MVPs, home aut
 
 ---
 
-## Public Profile, Private Production Work
+## Build Loop
 
 <p align="center">
-  <img alt="Private production repos" src="https://img.shields.io/badge/Most%20production%20work-private%20company%20repos-7C3AED?style=for-the-badge">
-  <img alt="Public profile is curated" src="https://img.shields.io/badge/Public%20GitHub-curated%20experiments-06B6D4?style=for-the-badge">
-  <img alt="Not a public stats scoreboard" src="https://img.shields.io/badge/Not%20a%20scoreboard-context%20over%20counts-111827?style=for-the-badge">
+  <img alt="Idea" src="https://img.shields.io/badge/idea-0F172A?style=for-the-badge">
+  <img alt="Prototype" src="https://img.shields.io/badge/prototype-7C3AED?style=for-the-badge">
+  <img alt="Break things" src="https://img.shields.io/badge/break%20things-DC2626?style=for-the-badge">
+  <img alt="Learn" src="https://img.shields.io/badge/learn-2563EB?style=for-the-badge">
+  <img alt="Ship" src="https://img.shields.io/badge/ship-059669?style=for-the-badge">
+  <img alt="Automate" src="https://img.shields.io/badge/automate-F59E0B?style=for-the-badge">
 </p>
-
-Most of my meaningful engineering work lives in private/company repositories, so public stats cards do not represent the real picture. They undercount private contributions and can overrepresent whichever language happens to be visible in public repos.
-
-This profile is meant to be a map of how I build: AI systems, product engineering, platform work, and personal automation labs.
 
 ```mermaid
 flowchart LR
-    A["Messy real-world problems"] --> B["Product engineering"]
-    B --> C["AI systems"]
-    B --> D["Cloud and reliability"]
-    C --> E["Agents, RAG, tools, memory"]
-    D --> F["CI/CD, observability, cost control"]
-    E --> G["Useful production workflows"]
-    F --> G
-    G --> H["Personal labs and automations"]
+    A["idea"] --> B["prototype"]
+    B --> C["break things"]
+    C --> D["learn"]
+    D --> E["ship"]
+    E --> F["automate"]
+    F --> A
 ```
+
+<p align="center">
+  <img alt="Contribution grid snake animation" src="https://raw.githubusercontent.com/MarcosAniCury/MarcosAniCury/output/github-contribution-grid-snake.svg">
+</p>
 
 ---
 
